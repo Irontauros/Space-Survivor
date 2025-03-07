@@ -1,0 +1,37 @@
+# Unity-specific ignores
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln*
+*.user
+*.unityproj
+*.csproj
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Unity-generated files
+*.apk
+*.unitypackage
+*.asset
+*.prefs
+*.mode
+
+# OS-specific files
+.DS_Store
+Thumbs.db
